@@ -1,0 +1,5 @@
+/wipe.bat
+/UpgradeLog*.XML
+/_UpgradeReport_Files
+/csharp-cgdk.suo
+/csharp-cgdk.csproj.user
